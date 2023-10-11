@@ -317,6 +317,8 @@ button {
         .image-text3{
             display: none;
         }
+        .full{
+            align-items:center;}
 
     }
 }
